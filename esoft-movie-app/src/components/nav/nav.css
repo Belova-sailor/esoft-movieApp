@@ -1,0 +1,22 @@
+.nav-bar-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: #212121;
+  }
+
+  .nav-bar {
+	padding: 0px 20px 0px 20px;
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+  }
+
+  .nav-bar a {
+	text-decoration: none;
+	color: #fafafa;
+  }
+
+  .nav-bar li {
+	padding-left: 15px;
+  }

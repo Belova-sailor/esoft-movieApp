@@ -1,0 +1,40 @@
+.header-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header-logo {
+  font-size: 24px;
+  padding-left: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #f44336;
+}
+
+.App-logo {
+  width: 25px;
+  height: 25px;
+}
+
+.left-bar-wrap {
+  padding: 10px 35px 10px 35px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.header-tagline {
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.right-bar-wrapper {
+  padding: 5px 35px 5px 15px;
+  display: flex;
+  align-items: center;
+}
+
